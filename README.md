@@ -22,7 +22,7 @@
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://codeforces.com/profile/sparshshrivastava10">
-    <img src="C:/Users/Sparsh/Desktop/Jai mata di/reactapps/SPARSHSHRI10/Resouces/320px-Codeforces_logo.svg.png" alt="codeforces" style="vertical-align:top; margin:4px">
+    <img src="https://cp-logo.vercel.app/codeforces/sparshshrivastava10" alt="codeforces" width = "120px" height="32px" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
   
   <a href="https://leetcode.com/Sparsh10/">
