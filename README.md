@@ -9,7 +9,7 @@
 
 👩‍💻 I regularly give coding contests on codeforces, solve DSA questions on [**LeetCode**](https://leetcode.com/Sparsh10/) and always up for quick coding brainstorming sessions! 
 
-🛠 I’m currently working with Nodejs, Express, React, <br />  Mongodb, Javascript, etc 💡.
+🛠 I’m currently working with Nodejs, Express, React, Mongodb, Javascript, etc 💡.
 
 ⚡ Fun fact: Big Fan of the ⚡ emoji
 
