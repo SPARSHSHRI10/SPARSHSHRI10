@@ -5,11 +5,11 @@
 <a href="https://twitter.com/SparshS53008407" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/sparsh-shrivastava-0a0392180/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 💖 Hey! I'm Sparsh, a Computer Science Engineering Undergraduate at NIT Bhopal, India. 
 
-:octocat: I'm a passionate learner who's always willing to learn and work across technologies and domains 💡 :octocat:! 
+:octocat: I'm a passionate learner who's always willing to learn and work across technologies <br/> and domains  :octocat:! 
 
 👩‍💻 I regularly give coding contests on codeforces, solve DSA questions on [**LeetCode**](https://leetcode.com/Sparsh10/) and always up for quick coding brainstorming sessions! 
 
-🛠 I’m currently working with Nodejs, Express, React, <br />  Mongodb, Javascript, etc.
+🛠 I’m currently working with Nodejs, Express, React, <br />  Mongodb, Javascript, etc 💡.
 
 ⚡ Fun fact: Big Fan of the ⚡ emoji
 
@@ -18,7 +18,7 @@
 ## 📢 Find me elsewhere
 <p align="left">
   <a href="https://www.codechef.com/users/itsme_again12">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+    <img src="https://cp-logo.vercel.app/codechef/itsme_again12" alt="codechef"  width = "120px" height="32px" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://codeforces.com/profile/sparshshrivastava10">
