@@ -15,7 +15,7 @@
 
 <br> 
 
-### 📢 Find me elsewhere
+## 📢 Find me elsewhere
 <p align="left">
   <a href="https://www.codechef.com/users/itsme_again12">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
@@ -34,7 +34,7 @@
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
